@@ -1,4 +1,27 @@
-# buzzline-02-case
+# buzzline-02-huntsman
+
+```
+This project demonstrates how to set up and use Apache Kafka for real-time streaming and message processing. It includes a Kafka producer that generates custom sentence messages and a Kafka consumer that processes and logs those messages.
+
+In this project, I've created a custom Kafka producer and consumer to handle real-time streaming of sentence-based messages.
+
+Kafka Producer (kafka_producer_huntsman.py): Generates sentence-based messages and sends them to a Kafka topic.
+The producer sends predefined sentence-based messages to a Kafka topic at regular intervals. These messages are randomly selected from a list and sent to the Kafka broker. The producer is set up to run indefinitely until interrupted by the user.
+
+Key Features:
+- Generates real sentence messages instead of just timestamps.
+- Sends messages at regular intervals (configurable).
+- Logs the generated message and when it is sent to the Kafka topic.
+
+Kafka Consumer (kafka_consumer_huntsman.py): Consumes messages from the Kafka topic and processes them by logging the details.
+The consumer listens to the Kafka topic and processes the messages it receives. Each message is logged along with its details, including the message content and its offset within the Kafka topic.
+
+Key Features:
+- Consumes messages from the Kafka topic buzzline.
+- Logs the message details and processes the content (in this case, just logging the message).
+- Can be configured to start from the earliest offset to consume all available messages.
+
+```
 
 Streaming data is often too big for any one machine. 
 A streaming platform helps organize our pipelines.
@@ -63,7 +86,7 @@ Use the commands below to activate .venv, and start the producer.
 Mac/Linux:
 ```zsh
 source .venv/bin/activate
-python3 -m producers.kafka_producer_case
+python3 -m producers.kafka_producer_huntsman
 ```
 
 ## Task 5. Start a Kafka Consumer
@@ -76,7 +99,7 @@ Use the commands below to activate .venv, and start the consumer.
 Mac/Linux:
 ```zsh
 source .venv/bin/activate
-python3 -m consumers.kafka_consumer_case
+python3 -m consumers.kafka_consumer_huntsman
 ```
 
 ## Later Work Sessions
