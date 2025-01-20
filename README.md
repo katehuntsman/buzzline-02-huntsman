@@ -42,7 +42,15 @@ Follow the instructions in [FORK-THIS-REPO.md](https://github.com/denisecase/buz
 
 Follow the instructions in [MANAGE-VENV.md](https://github.com/denisecase/buzzline-01-case/blob/main/docs/MANAGE-VENV.md) to:
 1. Create your .venv
-2. Activate .venv = python3.11 -m venv .venv
+```
+python3.11 -m venv .venv
+```
+
+2. Activate .venv
+```
+source .venv/bin/activate
+```
+
 3. Install the required dependencies using requirements.txt.
 
 ## Task 4. Start a Kafka Producer
@@ -51,12 +59,6 @@ Producers generate streaming data for our topics.
 
 In VS Code, open a terminal.
 Use the commands below to activate .venv, and start the producer. 
-
-Windows:
-```shell
-.venv\Scripts\activate
-py -m producers.kafka_producer_case
-```
 
 Mac/Linux:
 ```zsh
@@ -70,12 +72,6 @@ Consumers process data from topics or logs in real time.
 
 In VS Code, open a NEW terminal in your root project folder. 
 Use the commands below to activate .venv, and start the consumer. 
-
-Windows:
-```shell
-.venv\Scripts\activate
-py -m consumers.kafka_consumer_case
-```
 
 Mac/Linux:
 ```zsh
