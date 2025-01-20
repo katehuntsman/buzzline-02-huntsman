@@ -43,7 +43,7 @@ Follow the instructions in [FORK-THIS-REPO.md](https://github.com/denisecase/buz
 Follow the instructions in [MANAGE-VENV.md](https://github.com/denisecase/buzzline-01-case/blob/main/docs/MANAGE-VENV.md) to:
 1. Create your .venv
 2. Activate .venv
-```MacOS: python3.11 -m venv .venv
+```python3.11 -m venv .venv
 ```
 5. Install the required dependencies using requirements.txt.
 
