@@ -2100,3 +2100,117 @@
 2025-01-19 22:02:08.445 | INFO     | __main__:generate_messages:77 - Generated buzz: Streaming data is fun.
 2025-01-19 22:02:08.446 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Streaming data is fun.
 2025-01-19 22:02:08.451 | INFO     | __main__:process_message:62 - Processing message: Streaming data is fun.
+2025-01-19 22:02:09.451 | INFO     | __main__:generate_messages:77 - Generated buzz: This is a buzz message.
+2025-01-19 22:02:09.452 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': This is a buzz message.
+2025-01-19 22:02:09.454 | INFO     | __main__:process_message:62 - Processing message: This is a buzz message.
+2025-01-19 22:02:10.457 | INFO     | __main__:generate_messages:77 - Generated buzz: Have a great day!
+2025-01-19 22:02:10.457 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Have a great day!
+2025-01-19 22:02:10.459 | INFO     | __main__:process_message:62 - Processing message: Have a great day!
+2025-01-19 22:02:11.463 | INFO     | __main__:generate_messages:77 - Generated buzz: I love Python!
+2025-01-19 22:02:11.464 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': I love Python!
+2025-01-19 22:02:11.469 | INFO     | __main__:process_message:62 - Processing message: I love Python!
+2025-01-19 22:02:12.470 | INFO     | __main__:generate_messages:77 - Generated buzz: Kafka is awesome.
+2025-01-19 22:02:12.471 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Kafka is awesome.
+2025-01-19 22:02:12.475 | INFO     | __main__:process_message:62 - Processing message: Kafka is awesome.
+2025-01-19 22:02:13.473 | INFO     | __main__:generate_messages:77 - Generated buzz: Streaming data is fun.
+2025-01-19 22:02:13.474 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Streaming data is fun.
+2025-01-19 22:02:13.479 | INFO     | __main__:process_message:62 - Processing message: Streaming data is fun.
+2025-01-19 22:02:14.477 | INFO     | __main__:generate_messages:77 - Generated buzz: This is a buzz message.
+2025-01-19 22:02:14.478 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': This is a buzz message.
+2025-01-19 22:02:14.483 | INFO     | __main__:process_message:62 - Processing message: This is a buzz message.
+2025-01-19 22:02:15.485 | INFO     | __main__:generate_messages:77 - Generated buzz: Have a great day!
+2025-01-19 22:02:15.485 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Have a great day!
+2025-01-19 22:02:15.488 | INFO     | __main__:process_message:62 - Processing message: Have a great day!
+2025-01-19 22:02:16.490 | INFO     | __main__:generate_messages:77 - Generated buzz: I love Python!
+2025-01-19 22:02:16.491 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': I love Python!
+2025-01-19 22:02:16.493 | INFO     | __main__:process_message:62 - Processing message: I love Python!
+2025-01-19 22:02:17.495 | INFO     | __main__:generate_messages:77 - Generated buzz: Kafka is awesome.
+2025-01-19 22:02:17.496 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Kafka is awesome.
+2025-01-19 22:02:17.501 | INFO     | __main__:process_message:62 - Processing message: Kafka is awesome.
+2025-01-19 22:02:18.501 | INFO     | __main__:generate_messages:77 - Generated buzz: Streaming data is fun.
+2025-01-19 22:02:18.502 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Streaming data is fun.
+2025-01-19 22:02:18.507 | INFO     | __main__:process_message:62 - Processing message: Streaming data is fun.
+2025-01-19 22:02:19.508 | INFO     | __main__:generate_messages:77 - Generated buzz: This is a buzz message.
+2025-01-19 22:02:19.509 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': This is a buzz message.
+2025-01-19 22:02:19.512 | INFO     | __main__:process_message:62 - Processing message: This is a buzz message.
+2025-01-19 22:02:20.514 | INFO     | __main__:generate_messages:77 - Generated buzz: Have a great day!
+2025-01-19 22:02:20.515 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Have a great day!
+2025-01-19 22:02:20.520 | INFO     | __main__:process_message:62 - Processing message: Have a great day!
+2025-01-19 22:02:21.522 | INFO     | __main__:generate_messages:77 - Generated buzz: I love Python!
+2025-01-19 22:02:21.523 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': I love Python!
+2025-01-19 22:02:21.527 | INFO     | __main__:process_message:62 - Processing message: I love Python!
+2025-01-19 22:02:22.529 | INFO     | __main__:generate_messages:77 - Generated buzz: Kafka is awesome.
+2025-01-19 22:02:22.530 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Kafka is awesome.
+2025-01-19 22:02:22.535 | INFO     | __main__:process_message:62 - Processing message: Kafka is awesome.
+2025-01-19 22:02:23.534 | INFO     | __main__:generate_messages:77 - Generated buzz: Streaming data is fun.
+2025-01-19 22:02:23.535 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Streaming data is fun.
+2025-01-19 22:02:23.541 | INFO     | __main__:process_message:62 - Processing message: Streaming data is fun.
+2025-01-19 22:02:24.542 | INFO     | __main__:generate_messages:77 - Generated buzz: This is a buzz message.
+2025-01-19 22:02:24.543 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': This is a buzz message.
+2025-01-19 22:02:24.547 | INFO     | __main__:process_message:62 - Processing message: This is a buzz message.
+2025-01-19 22:02:25.548 | INFO     | __main__:generate_messages:77 - Generated buzz: Have a great day!
+2025-01-19 22:02:25.549 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Have a great day!
+2025-01-19 22:02:25.552 | INFO     | __main__:process_message:62 - Processing message: Have a great day!
+2025-01-19 22:02:26.554 | INFO     | __main__:generate_messages:77 - Generated buzz: I love Python!
+2025-01-19 22:02:26.555 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': I love Python!
+2025-01-19 22:02:26.560 | INFO     | __main__:process_message:62 - Processing message: I love Python!
+2025-01-19 22:02:27.560 | INFO     | __main__:generate_messages:77 - Generated buzz: Kafka is awesome.
+2025-01-19 22:02:27.561 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Kafka is awesome.
+2025-01-19 22:02:27.567 | INFO     | __main__:process_message:62 - Processing message: Kafka is awesome.
+2025-01-19 22:02:28.568 | INFO     | __main__:generate_messages:77 - Generated buzz: Streaming data is fun.
+2025-01-19 22:02:28.569 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Streaming data is fun.
+2025-01-19 22:02:28.573 | INFO     | __main__:process_message:62 - Processing message: Streaming data is fun.
+2025-01-19 22:02:29.575 | INFO     | __main__:generate_messages:77 - Generated buzz: This is a buzz message.
+2025-01-19 22:02:29.576 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': This is a buzz message.
+2025-01-19 22:02:29.580 | INFO     | __main__:process_message:62 - Processing message: This is a buzz message.
+2025-01-19 22:02:30.577 | INFO     | __main__:generate_messages:77 - Generated buzz: Have a great day!
+2025-01-19 22:02:30.578 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Have a great day!
+2025-01-19 22:02:30.583 | INFO     | __main__:process_message:62 - Processing message: Have a great day!
+2025-01-19 22:02:31.584 | INFO     | __main__:generate_messages:77 - Generated buzz: I love Python!
+2025-01-19 22:02:31.586 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': I love Python!
+2025-01-19 22:02:31.590 | INFO     | __main__:process_message:62 - Processing message: I love Python!
+2025-01-19 22:02:32.591 | INFO     | __main__:generate_messages:77 - Generated buzz: Kafka is awesome.
+2025-01-19 22:02:32.592 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Kafka is awesome.
+2025-01-19 22:02:32.597 | INFO     | __main__:process_message:62 - Processing message: Kafka is awesome.
+2025-01-19 22:02:33.598 | INFO     | __main__:generate_messages:77 - Generated buzz: Streaming data is fun.
+2025-01-19 22:02:33.599 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Streaming data is fun.
+2025-01-19 22:02:33.604 | INFO     | __main__:process_message:62 - Processing message: Streaming data is fun.
+2025-01-19 22:02:34.606 | INFO     | __main__:generate_messages:77 - Generated buzz: This is a buzz message.
+2025-01-19 22:02:34.606 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': This is a buzz message.
+2025-01-19 22:02:34.611 | INFO     | __main__:process_message:62 - Processing message: This is a buzz message.
+2025-01-19 22:02:35.610 | INFO     | __main__:generate_messages:77 - Generated buzz: Have a great day!
+2025-01-19 22:02:35.611 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Have a great day!
+2025-01-19 22:02:35.617 | INFO     | __main__:process_message:62 - Processing message: Have a great day!
+2025-01-19 22:02:36.617 | INFO     | __main__:generate_messages:77 - Generated buzz: I love Python!
+2025-01-19 22:02:36.618 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': I love Python!
+2025-01-19 22:02:36.623 | INFO     | __main__:process_message:62 - Processing message: I love Python!
+2025-01-19 22:02:37.624 | INFO     | __main__:generate_messages:77 - Generated buzz: Kafka is awesome.
+2025-01-19 22:02:37.625 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Kafka is awesome.
+2025-01-19 22:02:37.628 | INFO     | __main__:process_message:62 - Processing message: Kafka is awesome.
+2025-01-19 22:02:38.630 | INFO     | __main__:generate_messages:77 - Generated buzz: Streaming data is fun.
+2025-01-19 22:02:38.631 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Streaming data is fun.
+2025-01-19 22:02:38.636 | INFO     | __main__:process_message:62 - Processing message: Streaming data is fun.
+2025-01-19 22:02:39.636 | INFO     | __main__:generate_messages:77 - Generated buzz: This is a buzz message.
+2025-01-19 22:02:39.637 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': This is a buzz message.
+2025-01-19 22:02:39.643 | INFO     | __main__:process_message:62 - Processing message: This is a buzz message.
+2025-01-19 22:02:40.644 | INFO     | __main__:generate_messages:77 - Generated buzz: Have a great day!
+2025-01-19 22:02:40.644 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Have a great day!
+2025-01-19 22:02:40.648 | INFO     | __main__:process_message:62 - Processing message: Have a great day!
+2025-01-19 22:02:41.648 | INFO     | __main__:generate_messages:77 - Generated buzz: I love Python!
+2025-01-19 22:02:41.649 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': I love Python!
+2025-01-19 22:02:41.652 | INFO     | __main__:process_message:62 - Processing message: I love Python!
+2025-01-19 22:02:42.655 | INFO     | __main__:generate_messages:77 - Generated buzz: Kafka is awesome.
+2025-01-19 22:02:42.656 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Kafka is awesome.
+2025-01-19 22:02:42.661 | INFO     | __main__:process_message:62 - Processing message: Kafka is awesome.
+2025-01-19 22:02:43.662 | INFO     | __main__:generate_messages:77 - Generated buzz: Streaming data is fun.
+2025-01-19 22:02:43.663 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Streaming data is fun.
+2025-01-19 22:02:43.667 | INFO     | __main__:process_message:62 - Processing message: Streaming data is fun.
+2025-01-19 22:02:44.669 | INFO     | __main__:generate_messages:77 - Generated buzz: This is a buzz message.
+2025-01-19 22:02:44.670 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': This is a buzz message.
+2025-01-19 22:02:44.677 | INFO     | __main__:process_message:62 - Processing message: This is a buzz message.
+2025-01-19 22:02:45.676 | INFO     | __main__:generate_messages:77 - Generated buzz: Have a great day!
+2025-01-19 22:02:45.676 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': Have a great day!
+2025-01-19 22:02:45.681 | INFO     | __main__:process_message:62 - Processing message: Have a great day!
+2025-01-19 22:02:46.678 | INFO     | __main__:generate_messages:77 - Generated buzz: I love Python!
+2025-01-19 22:02:46.680 | INFO     | __main__:generate_messages:79 - Sent message to topic 'buzzline': I love Python!
+2025-01-19 22:02:46.682 | INFO     | __main__:process_message:62 - Processing message: I love Python!
